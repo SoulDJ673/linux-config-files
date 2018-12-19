@@ -3,6 +3,7 @@
 
 # Path to your oh-my-zsh installation.
 ZSH=~/.oh-my-zsh/
+## Will differ if installing Oh-My-Zsh from AUR
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -14,10 +15,10 @@ ZSH_THEME="bureau"
 
 # Uncomment the following line to use hyphen-insensitive completion. Case
 # sensitive completion must be off. _ and - will be interchangeable.
-# HYPHEN_INSENSITIVE="true"
+HYPHEN_INSENSITIVE="true"
 
 # Uncomment the following line to disable bi-weekly auto-update checks.
-DISABLE_AUTO_UPDATE="true"
+# DISABLE_AUTO_UPDATE="true"
 
 # Uncomment the following line to change how often to auto-update (in days).
 # export UPDATE_ZSH_DAYS=13
@@ -29,10 +30,10 @@ DISABLE_AUTO_UPDATE="true"
 # DISABLE_AUTO_TITLE="true"
 
 # Uncomment the following line to enable command auto-correction.
-# ENABLE_CORRECTION="true"
+ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
-# COMPLETION_WAITING_DOTS="true"
+COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
@@ -83,8 +84,8 @@ export ARCHFLAGS="-arch x86_64"
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
+alias zshconfig="vim ~/.zshrc"
+alias ohmyzsh="vim ~/.oh-my-zsh"
 
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then
@@ -92,13 +93,14 @@ if [[ ! -d $ZSH_CACHE_DIR ]]; then
 fi
 
 source $ZSH/oh-my-zsh.sh
+## The source for the syntax plugin should go here
 
 ### Java Terminal Customization ###
-cd .local/share/Terminal_Customization/
+cd ~/.local/share/Terminal_Customization/
 java com.souldj673.terminal_customization.textintro.TextIntroApp
 
 ### Neofetch ###
 neofetch --disable resolution term icons theme wm wm_theme --color_blocks off --ascii_distro arch_small --ascii_colors 4 7 --colors 4 7 7 4 7 7 --underline_char ">"
 ### DateTime ###
 java com.souldj673.terminal_customization.DateTime.DateTimeApp
-cd
+cd - > /dev/null ## Return to directory without directory echo
