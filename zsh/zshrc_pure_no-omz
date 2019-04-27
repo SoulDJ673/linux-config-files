@@ -1,0 +1,16 @@
+source "$HOME/.slimzsh/slim.zsh"
+source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+### Java Terminal Customization ###
+cd ~/.local/share/Terminal_Customization/src/main/java
+java com.souldj673.terminal_customization.textintro.TextIntroApp
+
+### Neofetch ###
+/usr/bin/neofetch --ascii_colors 1 7 --colors 1 7 7 1 7 7 --ascii_distro arch_small | sed -r '/^\s*$/d' | cat - 
+### DateTime ###
+java com.souldj673.terminal_customization.DateTime.DateTimeApp
+
+export _JAVA_OPTIONS="${_JAVA_OPTIONS} -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true"
+cd - >> /tmp/lastDir.txt
+
