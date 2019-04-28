@@ -35,7 +35,7 @@ public class TextIntroView {
             do {
                 tokens.add(text.substring((i * 72), ((i * 71) + (i * 1))));
                 i++;
-            } while (!tokens.get(i-1).isEmpty());
+            } while (!tokens.get(i - 1).isEmpty());
         } else {
             tokens.add(text);
         }
@@ -53,7 +53,8 @@ public class TextIntroView {
         }
         System.out.println(decorTrim);
     }
-/*
+
+    /*
     Need to actually get working, but low priority because of lack of use currently
     
     public void displayText(List<String> stringList) {
@@ -73,11 +74,11 @@ public class TextIntroView {
             }
         }
     }
-*/
+     */
     private String centerText(String token, int type) {
         switch (type) {
             case 1:
-                int space = ((72 / 2) - (token.length() / 2) - 1);
+                int space = ((72 / 2) - (token.length() / 2));
                 String spaceS = "";
                 for (int i = 0; i < space; i++) {
                     spaceS = spaceS + " ";
