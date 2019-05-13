@@ -1,0 +1,53 @@
+/*Add flash animation to mention badges.
+To customise the color, change the rgb values(marked by arrows)*/
+.wrapper-2xO9RX, .guilds-wrapper .guilds .guild .badge,
+a[href="/channels/@me"] .badge {
+    animation: mention-flash 1.5s linear infinite;  
+}
+
+@keyframes mention-flash {
+    0% {                          /*vvv  vv  vv*/
+        box-shadow: 0 0px 10px rgba(240, 71, 71, 0),
+                    0 0 0 0px rgba(240, 71, 71, .4);
+    }                            /*^^^  ^^  ^^*/
+    50% {                              /*vvv  vv  vv*/
+        box-shadow: 0 0px 20px 15px rgba(240, 71, 71, .3),
+                    0 0 0 4px rgba(240, 71, 71, .7);
+    }
+    100% {                             /*vvv  vv  vv*/
+        box-shadow: 0 0px 25px 16px rgba(240, 71, 71, 0),
+                    0 0 3px 8px rgba(240, 71, 71, 0);
+    }                              /*^^^  ^^  ^^*/
+}
+
+.darkTheme-3uETC4.container-2XeR5Z {
+    background-color: transparent !important;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+    width: 100%;
+    height: 100%;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.title-3qD0b-, .container-1r6BKw {
+background: var(--nox-level3) !important;
+}
+
+.title-29uC1r{
+    background: none !important;
+}
+
+.children-19S4PO:after {
+    background: none !important;
+}
+
+div.scroller-2FKFPG.firefoxFixScrollFlex-cnI2ix.da-scroller.da-firefoxFixScrollFlex.systemPad-3UxEGl.da-systemPad.scroller-2TZvBN.da-scroller {
+    background: #111 !important;
+    box-shadow: 10px 10px 10px #000 !important;
+}
+
+:root {
+    --nox-accent: #F04747 !important;
+    --nox-important-notification: #7289DA !important;
+} 
