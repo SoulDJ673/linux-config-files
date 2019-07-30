@@ -2,7 +2,10 @@
 alias zshconfig="vim ~/.zshrc"
 alias fixhtml="tidy -i -m -w 160 -ashtml -utf8"
 alias ls="ls --color=always"
-alias neofetch="neofetch | sed -r '/^\s*$/d' | cat - && echo '\n'"
+alias neofetch="paste <(jp2a --colors --width=20 --chars=' cfF' /tmp/bass-clef.jpg) <(/usr/bin/neofetch --backend off)"
+alias _="sudo"
+
+alias vim="nvim"
 
 # SCHOOL
 alias pushschoolwork="cd ~/Documents/school-work-backup && bash push"
