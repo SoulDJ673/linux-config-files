@@ -1,0 +1,22 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Iosevka Term",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		100
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"spell_check": true,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

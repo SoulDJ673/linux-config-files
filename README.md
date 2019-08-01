@@ -5,3 +5,4 @@ This is my personal collection of config files that I use on almost all of my sy
 * Zsh
 * Neofetch
 * Java Terminal Banner
+* Sublime Text 3

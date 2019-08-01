@@ -1,0 +1,592 @@
+{
+	"folder_history":
+	[
+		"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash",
+		"/home/souldj673/Documents/souldj673.github.io",
+		"/home/souldj673/Documents/BasicNewTabPage",
+		"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization",
+		"/home/souldj673/.local/share/Terminal_Customization/src/main/java/com/souldj673",
+		"/home/souldj673/.local/share/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro",
+		"/tmp/Qogir-theme/src"
+	],
+	"last_version": 3207,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backgroun",
+						"background-color\tproperty"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/Ant.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"javaI",
+						"Sort JavaScript Imports"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"CoolFor",
+						"CoolFormat: Formatter Settings"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"UI",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"Pack\t",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 151.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/LICENSE",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/TextIntro.txt",
+				"/home/souldj673/Documents/Home-Java-Projects/README.md",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/pom.xml",
+				"/home/souldj673/Documents/souldj673.github.io/index.html",
+				"/home/souldj673/Documents/souldj673.github.io/css/souldj673.css",
+				"/home/souldj673/Documents/souldj673.github.io/index.min.html",
+				"/home/souldj673/Documents/souldj673.github.io/css/souldj673.min.min.css",
+				"/home/souldj673/Documents/BasicNewTabPage/home.html",
+				"/home/souldj673/Documents/BasicNewTabPage/js/home.js",
+				"/home/souldj673/Documents/BasicNewTabPage/README.md",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/service/TextIntroService.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/controller/TextIntroController.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/view/TextIntroView.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/TextIntro.txt",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/JavaImports.sublime-settings",
+				"/home/souldj673/Documents/souldj673-dotfiles/Terminal_Customization_Java/TextIntro.txt",
+				"/home/souldj673/.config/sublime-text-3/Packages/JavaImports/JavaImports.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/GitGutter/Default.sublime-keymap",
+				"/home/souldj673/.config/sublime-text-3/Packages/Javatar/README.md",
+				"/home/souldj673/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
+				"/home/souldj673/.local/share/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/App.java",
+				"/home/souldj673/.config/sublime-text-3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/tmp/Qogir-theme/src/_sass/_color-palette.scss",
+				"/tmp/Qogir-theme/src/_sass/_colors.scss",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/tmp/Layan-gtk-theme/src/gtk-2.0/assets-dark.svg",
+				"/home/souldj673/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 44.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bord",
+						"bordCharArg"
+					],
+					[
+						"backgroun",
+						"background-color\tproperty"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/souldj673/Documents/souldj673-dotfiles/README.md",
+					"settings":
+					{
+						"buffer_size": 197,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/Ant.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Install Package"
+					],
+					[
+						"javaI",
+						"Sort JavaScript Imports"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"CoolFor",
+						"CoolFormat: Formatter Settings"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"UI",
+						"UI: Select Color Scheme"
+					],
+					[
+						"color",
+						"Color Picker: Insert Color"
+					],
+					[
+						"Pack\t",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 151.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime/view",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/service",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/view"
+			],
+			"file_history":
+			[
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime/controller/DateTimeController.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime/view/DateTimeView.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime/service/DateTimeService.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/DateTime/DateTimeApp.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/service/TextIntroService.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/controller/TextIntroController.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/TextIntroApp.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/com/souldj673/terminal_customization/textintro/view/TextIntroView.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/LICENSE",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash/TextIntro.txt",
+				"/home/souldj673/Documents/Home-Java-Projects/README.md",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/pom.xml",
+				"/home/souldj673/Documents/souldj673.github.io/index.html",
+				"/home/souldj673/Documents/souldj673.github.io/css/souldj673.css",
+				"/home/souldj673/Documents/souldj673.github.io/index.min.html",
+				"/home/souldj673/Documents/souldj673.github.io/css/souldj673.min.min.css",
+				"/home/souldj673/Documents/BasicNewTabPage/home.html",
+				"/home/souldj673/Documents/BasicNewTabPage/js/home.js",
+				"/home/souldj673/Documents/BasicNewTabPage/README.md",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/service/TextIntroService.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/controller/TextIntroController.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/textintro/view/TextIntroView.java",
+				"/home/souldj673/Documents/Home-Java-Projects/Terminal_Customization/src/main/java/TextIntro.txt",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/JavaImports.sublime-settings",
+				"/home/souldj673/Documents/souldj673-dotfiles/Terminal_Customization_Java/TextIntro.txt",
+				"/home/souldj673/.config/sublime-text-3/Packages/JavaImports/JavaImports.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/GitGutter/Default.sublime-keymap",
+				"/home/souldj673/.config/sublime-text-3/Packages/Javatar/README.md",
+				"/home/souldj673/.config/sublime-text-3/Packages/Javatar/Javatar.sublime-settings",
+				"/home/souldj673/.local/share/Terminal_Customization/src/main/java/com/souldj673/terminal_customization/App.java",
+				"/home/souldj673/.config/sublime-text-3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+				"/tmp/Qogir-theme/src/_sass/_color-palette.scss",
+				"/tmp/Qogir-theme/src/_sass/_colors.scss",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/souldj673/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/tmp/Layan-gtk-theme/src/gtk-2.0/assets-dark.svg",
+				"/home/souldj673/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Character.toString(decorChar)",
+					"\">>> \"",
+					"\" >>>\""
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"borderMaterial",
+					"borderLeft",
+					"borderRight"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/souldj673/Documents/Home-Java-Projects/Terminal_Splash"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/souldj673/Documents/souldj673-dotfiles/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 197,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										196,
+										196
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 44.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 121.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 71.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 262.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 8,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
