@@ -1,0 +1,8 @@
+## XDG Stuff ##
+export XDG_CONFIG_DIR=$HOME/.config
+
+## Other Vars ##
+export GOPATH=$GOPATH:$HOME/.local/bin
+export PATH=$PATH:~/.local/bin/:/usr/local/bin/:~/.local/bin/games/
+export EDITOR="nvim"
+export BROWSER="$(xdg-settings get default-web-browser | sed 's/.desktop//')"

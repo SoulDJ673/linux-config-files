@@ -1,0 +1,17 @@
+# UTILITY
+alias zshconfig="vim ~/.zshrc"
+alias fixhtml="tidy -i -m -w 160 -ashtml -utf8"
+alias ls="ls --color=always"
+alias pfetch="pfetch | paste ~/.local/share/Terminal_Customization/bass-clef.txt -"
+alias _="sudo"
+
+alias vim="nvim"
+
+# SCHOOL
+alias pushschoolwork="cd ~/Documents/school-work-backup && bash push"
+alias gotoschool="cd ~/Documents/school-work-backup"
+
+# GIT
+alias ga="git add"
+alias gc="git commit -m"
+
